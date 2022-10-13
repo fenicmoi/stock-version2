@@ -1,0 +1,18 @@
+{
+  "name": "adminphp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yothin Sapsamran",
+  "license": "ISC",
+  "dependencies": {
+    "datatables.net-bs5": "^1.10.25",
+    "datatables.net-responsive": "^2.2.9",
+    "datatables.net-responsive-bs5": "^2.2.9",
+    "bootstrap4-toggle": "^3.6.1"
+  }
+}
